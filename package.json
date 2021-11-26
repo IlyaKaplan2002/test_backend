@@ -1,0 +1,18 @@
+{
+  "name": "node-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ilya <kaplan11092002@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "configparser": "^0.3.9",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  }
+}
